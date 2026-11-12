@@ -1,1 +1,1 @@
-# Praktikum-Struktur-Data-7
+# Praktikum-Struktur-Data-Modul-7
